@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-cloud.iml" filepath="$PROJECT_DIR$/Spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cloud-eureka-server/Spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/Spring-cloud-eureka-server/Spring-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cloud-eureka-server2/Spring-cloud-eureka-server2.iml" filepath="$PROJECT_DIR$/Spring-cloud-eureka-server2/Spring-cloud-eureka-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-cloud-eureka-server3/Spring-cloud-eureka-server3.iml" filepath="$PROJECT_DIR$/Spring-cloud-eureka-server3/Spring-cloud-eureka-server3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-customer/Spring-cloud-server-customer.iml" filepath="$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-customer/Spring-cloud-server-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer/Spring-cloud-server-producer.iml" filepath="$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer/Spring-cloud-server-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer2/../..//Spring-cloud/Spring-cloud-server-privoder2/Spring-cloud-server-producer2.iml" filepath="$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer2/../..//Spring-cloud/Spring-cloud-server-privoder2/Spring-cloud-server-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer3/Spring-cloud-server-producer3.iml" filepath="$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer3/Spring-cloud-server-producer3.iml" />
+    </modules>
+  </component>
+</project>

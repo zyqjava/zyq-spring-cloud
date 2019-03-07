@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-cloud-eureka-server" />
+        <module name="Spring-cloud-eureka-server2" />
+        <module name="Spring-cloud-eureka-server3" />
+        <module name="Spring-cloud-server-customer" />
+        <module name="Spring-cloud-server-privoder2" />
+        <module name="Spring-cloud-server-producer" />
+        <module name="Spring-cloud-server-producer2" />
+        <module name="Spring-cloud-server-producer3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring-cloud" target="1.8" />
+      <module name="Spring-cloud-customer" target="1.8" />
+      <module name="Spring-cloud-eureka-server" target="1.8" />
+      <module name="Spring-cloud-eureka-server2" target="1.8" />
+      <module name="Spring-cloud-eureka-server3" target="1.8" />
+      <module name="Spring-cloud-privoder" target="1.8" />
+      <module name="Spring-cloud-server-customer" target="1.8" />
+      <module name="Spring-cloud-server-privoder" target="1.7" />
+      <module name="Spring-cloud-server-privoder1" target="1.8" />
+      <module name="Spring-cloud-server-privoder2" target="1.8" />
+      <module name="Spring-cloud-server-producer" target="1.8" />
+      <module name="Spring-cloud-server-producer2" target="1.8" />
+      <module name="Spring-cloud-server-producer3" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+server:
+  port: 2000
+
+
+spring:
+  application:
+    name: microservice-2000-producer
+
+eureka:
+
+  instance:                   #定义Eureka实例
+    hostname: localhost #Eureka实例所在的主机名
+#    prefer-ip-address: true
+#    lease-expiration-durationn-in-seconds: 30
+#    lease-renewal-interval-in-seconds: 10
+
+
+  #eureka默认情况下,把自己当做客户端来注册自己,所以我们要禁用它
+  client:
+#    registerWithEureka: false #表示是否将自己注册到Eureka Server上，默认为true
+#    fetchRegistry: false       #表示是否从Eureka Server上获取注册信息，默认为true
+    serviceUrl:
+          defaultZone: http://peer1:8000/eureka
+
