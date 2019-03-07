@@ -32,6 +32,11 @@
     <module>Spring-cloud-server-customer</module>
       <module>Spring-cloud-server-producer</module>
       <module>Spring-cloud-server-producer3</module>
+      <module>Spring-cloud-config</module>
+      <module>Spring-cloud-config-client</module>
+      <module>Spring-cloud-bus</module>
+      <module>Spring-cloud-stream</module>
+      <module>Spring-cloud-zull</module>
   </modules>
 
   <groupId>Spring-cloud</groupId>

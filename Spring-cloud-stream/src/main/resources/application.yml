@@ -1,0 +1,18 @@
+server:
+  port: 10000
+spring:
+  rabbitmq:
+    host: 192.168.137.16
+    port: 5672
+    username: admin
+    password: admin
+  application:
+    name: stream
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: trade
+          contentType: 'application/json'
+
+# 分别指明了要监听的队列为trade，监听的数据格式为json。

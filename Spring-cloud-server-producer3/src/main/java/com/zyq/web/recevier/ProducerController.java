@@ -1,4 +1,4 @@
-package com.zyq.web.controller;
+package com.zyq.web.recevier;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
