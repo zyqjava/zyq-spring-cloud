@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="Spring-cloud-eureka-server2:war">
-    <output-path>$PROJECT_DIR$/../Spring-cloud/Spring-cloud-eureka-server2/target</output-path>
+    <output-path>$PROJECT_DIR$/Spring-cloud-eureka-server2/target</output-path>
     <root id="archive" name="Spring-cloud-eureka-server2-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="Spring-cloud-eureka-server2:war exploded" />
     </root>

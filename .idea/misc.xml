@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/../Spring-cloud" />
+    <file type="web" url="file://E:/Spring-cloud" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-cloud-eureka-server" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-cloud-eureka-server2" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-cloud-eureka-server3" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-cloud-server-customer" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-cloud-server-producer" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-cloud-server-producer2" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-cloud-server-producer3" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,11 +19,11 @@
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/../Spring-cloud/Spring-cloud-customer/pom.xml" />
+        <option value="E:/Spring-cloud/Spring-cloud-customer/pom.xml" />
       </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/../Spring-cloud/out" />
+    <output url="file://E:/Spring-cloud/out" />
   </component>
 </project>

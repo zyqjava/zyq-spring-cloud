@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="Spring-cloud-server-privoder2:war">
-    <output-path>$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer2/target</output-path>
+    <output-path>$PROJECT_DIR$/Spring-cloud-server-producer2/target</output-path>
     <root id="archive" name="Spring-cloud-server-privoder2-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="Spring-cloud-server-privoder2:war exploded" />
     </root>

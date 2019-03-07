@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/../Spring-cloud" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-customer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-eureka-server2" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-eureka-server3" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-customer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer2" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer3" charset="UTF-8" />
+    <file url="file://E:/Spring-cloud" charset="UTF-8" />
+    <file url="file://E:/Spring-cloud/Spring-cloud-eureka-server" charset="UTF-8" />
+    <file url="file://E:/Spring-cloud/Spring-cloud-eureka-server2" charset="UTF-8" />
+    <file url="file://E:/Spring-cloud/Spring-cloud-eureka-server3" charset="UTF-8" />
+    <file url="file://E:/Spring-cloud/Spring-cloud-server-customer" charset="UTF-8" />
+    <file url="file://E:/Spring-cloud/Spring-cloud-server-producer" charset="UTF-8" />
+    <file url="file://E:/Spring-cloud/Spring-cloud-server-producer2" charset="UTF-8" />
+    <file url="file://E:/Spring-cloud/Spring-cloud-server-producer3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-cloud-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-cloud-eureka-server2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-cloud-eureka-server3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-cloud-server-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-cloud-server-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-cloud-server-producer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-cloud-server-producer3" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

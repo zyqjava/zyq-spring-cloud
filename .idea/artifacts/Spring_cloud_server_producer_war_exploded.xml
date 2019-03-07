@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="Spring-cloud-server-producer:war exploded">
-    <output-path>$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer/target/Spring-cloud-server-producer-1.0-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/Spring-cloud-server-producer/target/Spring-cloud-server-producer-1.0-SNAPSHOT</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -121,7 +121,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/../Spring-cloud/Spring-cloud-server-producer/target/Spring-cloud-server-producer-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/Spring-cloud-server-producer/target/Spring-cloud-server-producer-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="Spring-cloud-server-producer/web/Web" />
     </root>
