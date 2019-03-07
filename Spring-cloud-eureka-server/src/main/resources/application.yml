@@ -16,8 +16,9 @@ eureka:
     serviceUrl:
           defaultZone: http://peer2:8001/eureka/,http://peer3:8002/eureka/
 
-# 集群试需使用下面命令启动 java -jar spring-cloud-eureka-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer1
-#                       java -jar spring-cloud-eureka-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer2
-#                       java -jar spring-cloud-eureka-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer3
+# 集群试需使用下面命令启动 打jar包后启动
+#         java -jar spring-cloud-eureka-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer1
+#         java -jar spring-cloud-eureka-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer2
+#         java -jar spring-cloud-eureka-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer3
 
 

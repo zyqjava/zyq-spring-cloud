@@ -22,3 +22,6 @@ eureka:
     serviceUrl:
           defaultZone: http://peer1:8000/eureka
 
+feign:
+  hystrix:
+    enabled: true
