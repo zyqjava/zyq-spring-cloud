@@ -6,7 +6,7 @@ server:
   port: 9003
 zuul:
   routes:
-    users:
+    microservice-2000-producer :
       path: /**
       serviceId: microservice-2000-producer
 #        serviceId:
@@ -24,7 +24,7 @@ eureka:
 #    registerWithEureka: false #表示是否将自己注册到Eureka Server上，默认为true
 #    fetchRegistry: false       #表示是否从Eureka Server上获取注册信息，默认为true
     serviceUrl:
-            defaultZone: http://peer1:8000/eureka
+            defaultZone: http://peer1:8000/eureka,http://peer2:8001/eureka,http://peer3:8002/eureka
 
 ribbon:
   ReadTimeout: 3000
